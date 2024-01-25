@@ -2,6 +2,7 @@
 Working @Cognizant 
 <img width="350" height="250" src="https://img.icons8.com/nolan/96/programming.png" alt="programming"/>                                             
 - 🌱 I’m currently learning SpringBoot
+- ⚡ In my free time working on personal project using Spring Boot 3, Spring MVC, Thymeleaf, Spring Security, Spring Data JPA & MySQL
 - 👯 I’m looking to collaborate on Development
 - 💬 Ask me about Tech
 - 📫 How to reach me :
